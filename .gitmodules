@@ -1,0 +1,6 @@
+[submodule "estructuras"]
+	path = estructuras
+	url = https://github.com/SmartNetAR/CPlusPlus.git
+[submodule "microwave"]
+	path = microwave
+	url = https://github.com/SmartNetAR/microwave.git
